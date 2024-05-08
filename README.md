@@ -9,7 +9,7 @@ The image shows us the Lipid Ontology used by LION/web and proposed by Molennar 
 ## Annex 3: Data table before and after normalization by log2
 Tables displaying the initial raw data set beside the table following the application of log2 normalization.
 
-## Annex 4: List of significant lipids by Lipir
+## Annex 4: List of significant lipids by Lipidr
 This files shows the sifnificant lipids obtained by the differencial analysis in Lipidr, both the COS and MAP diets display significant positive and negative lipids while the HPO diet does not show any significant lipids
 
 ## Annex 5:
