@@ -20,3 +20,6 @@ The PCA-Heatmap enables us to effectively compare the four diets and visually id
 
 ## Annex 7: Metadata ranking mode CTL_cow vs CTL_goat
 This document contains metadata that has been retrieved directly from the LION/web. Interpreting this data can be quite complex and requires an understanding of web server operations.
+
+## Script nutrilip_cleandata_cow:
+File using R-Markdown within RStudio for the purpose of conducting an exploratory analysis by applying statistical methods to examine the integrity of our dataset, as well as to employ log2 normalization for data transformation techniques.
