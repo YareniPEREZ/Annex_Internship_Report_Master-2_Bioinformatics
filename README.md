@@ -1,12 +1,13 @@
 # Annex_Internship_Report_Master-2_Bioinformatics
 
-## Annex 1: Table of comparative lipidomic bioinformatics tools documented in literature. 
+## <span style="color: green"> Annex 1: Table of comparative lipidomic bioinformatics tools documented in literature. </span>
 The "Tools_comparaison" tab in the Excel document displays the various categories necessary for choosing the right tools capable of addressing the biological queries within the study. Meanwhile, in the subsequent "Tools_information" tab, you can access succinct descriptions pertaining to the application of each suggested tool.
 
 ## Annex 2: Lipid Ontology LION/web
-The image shows us the Lipid Ontology used by LION/web and proposed by Molennar et al. 2019
+The image shows us the Lipid Ontology used by LION/web and proposed by Molennar et al. (2019).
 
-## Annex 3:
+## Annex 3: 
+
 ## Annex 4:
 ## Annex 5:
 ## Annex 6:
